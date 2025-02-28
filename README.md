@@ -1,7 +1,7 @@
-#FastAPI Data Analytics API
+# FastAPI Data Analytics API
 A simple FastAPI backend for storing and analyzing transaction data.
 
-##Endpoints
+## Endpoints
 1. Add a Transaction
 Method: POST
 
