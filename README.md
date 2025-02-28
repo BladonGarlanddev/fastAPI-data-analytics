@@ -30,8 +30,8 @@ A simple FastAPI backend for storing and analyzing transaction data.
    - URL: /transactions/product/{product_id}
 
 5. Get Sales Analytics
-  - Method: GET
-  - URL: /analytics/sales
+   - Method: GET
+   - URL: /analytics/sales
 
 6. Get Customer Analytics
    - Method: GET
