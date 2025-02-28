@@ -3,11 +3,11 @@ A simple FastAPI backend for storing and analyzing transaction data.
 
 ## Endpoints
 1. Add a Transaction
-  - Method: POST
-  - URL: /transactions
-  - Body (JSON):
-  - json
-  - Copy
+   - Method: POST
+   - URL: /transactions
+   - Body (JSON):
+   - json
+   - Copy
 {
   "transaction_id": 1,
   "customer_id": 101,
